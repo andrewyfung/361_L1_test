@@ -13,6 +13,6 @@
 * functions and you will write your own functions
 */
 int main() {
-   printf("Hello and welcome to AerE 361!\n")
+   printf("Hello and welcome to AerE 361!\n");
    return 0;
 }
